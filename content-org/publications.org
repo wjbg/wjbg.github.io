@@ -1,0 +1,92 @@
+#+TITLE: Publications
+#+AUTHOR:
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: /
+#+HUGO_CUSTOM_FRONT_MATTER: :heroStyle background :description ""
+
+* Publications
+:PROPERTIES:
+:EXPORT_FILE_NAME: publications
+:END:
+
+A list of recent journal publications can be found below. For a more complete and up-to-date list of all contributions, you are kindly referred to [[https://openalex.org/works?page=1&filter=authorships.author.id:a5037301322&sort=publication_year:desc][OpenAlex]], while my datasets can be found at [[https://data.4tu.nl/authors/bbde426a-6b1a-4b7f-89cf-eb6d5f92b485][4TU.ResearchData]].
+
+
+** 2026
+
+- *Laser-induced surface modification of C/PEKK for co-curing with C/epoxy*,
+  Lazarov et al., /Composites Part B./ [[https://doi.org/10.1016/j.compositesb.2026.114217][📃 Link]]
+
+- *Benchmarking and sensitivity analysis of segmentation methods for image-based fiber detection in composites*, Yuksel et al., /Composites Part A. [[https://doi.org/10.1016/j.compositesb.2026.114217][📃 Link]]
+
+- *Transverse electrical conductivity characterisation for tape-based thermoplastic composites*, Buser et al., /Composites Part A./ [[https://doi.org/10.1016/j.compositesa.2026.109986][📃 Link]]
+
+- *Ply-ply friction for UD C/PAEK tapes in melt under varying sliding rates*, Pierik et al., /Composites Part A./ [[https://doi.org/10.1016/j.compositesa.2026.109866][📃 Link]]
+
+- *Reflectivity characterization of thermoplastic composite tapes for automated fiber placement: A rapid measurement technique*, Asijee et al., /Composites Part A/. [[https://doi.org/10.1016/j.compositesa.2025.109514][📃 Link]]
+
+** 2025
+
+- *A Functionalized Pyrrole Coating to Improve Fiber–Matrix Adhesion in Carbon Fiber Reinforced Polyphenylene Sulfide Composites*, Van Swaaij et al., /Polymer Composites/. [[https://doi.org/10.1002/pc.30134][📃 Link]]
+
+- *A press forming benchmark to isolate deformation mechanisms for simulation validation*, Brands et al., /International Journal of Material Forming/. [[https://doi.org/10.1007/s12289-025-01891-x][📃 Link]]
+
+- *Nanosecond pulsed laser transmission welding of cyclic olefin copolymer*, Bishayee et al., /Journal of Micromechanics and Microengineering/. [[https://doi.org/10.1088/1361-6439/adcfac][📃 Link]]
+
+- *Critical evaluation of torsion rheometry to characterize the anisotropic intraply shear resistance of unidirectional thermoplastic composites in melt*, Brands et al., /Composites Part A/. [[https://doi.org/10.1016/j.compositesa.2024.108661][📃 Link]]
+
+- *An experimental study on filling of gaps and void pockets during vacuum-bag-only consolidation of fiber placed preforms*, Swamy et al., /Journal of Thermoplastic Composite Materials/. [[https://doi.org/10.1177/08927057241259745][📃 Link]]
+
+- *Reliable longitudinal electrical conductivity characterisation of unidirectional CFRP tapes*, Buser et al., /Composites Part A/. [[https://doi.org/10.1016/j.compositesa.2024.108550][📃 Link]]
+
+** 2024
+
+- *Induction heating of unidirectional C/PAEK – A thermographic study on eddy current formation*, Buser et al., /Composites Part B/. [[https://doi.org/10.1016/j.compositesb.2024.111789][📃 Link]]
+
+- *Prediction of the in-plane permeability and air evacuation time of fiber-placed thermoplastic composite preforms with engineered intertape channels*, Niens et al., /Composites Part C/. [[https://doi.org/10.1016/j.jcomc.2024.100475][📃 Link]]
+
+- *The modified boundary layer mechanism for the release between polyimide film and poly(ether ketone ketone) thermoplastics*, Yang et al., /Journal of Applied Polymer Science/. [[https://doi.org/10.1002/app.55377][📃 Link]]
+
+- *A mesoscopic model for inter-yarn friction.*, Vu et al., /Composites Part A/ [[https://doi.org/10.1016/j.compositesa.2024.108070][📃 Link]]
+
+- *Dataset with press forming results of unidirectional thermoplastic composite laminates including in-plane deformation data for validation of forming simulations*, Brands et al., /Data in Brief/ [[https://doi.org/10.1016/j.dib.2024.110099][📃 Link]]
+
+- *Polymer-metal interactions and their effect on tool-ply friction of C/PEKK in melt*, Grouve et al., /ESAFORM2024/. [[http://dx.doi.org/10.21741/9781644903131-56][📃 Link]]
+
+- *A state-rate model for the transient wall slip effects in ply-ply friction of UD C/PAEK tapes in melt*, Pierik et al., /Composites Part A/. [[https://doi.org/10.1016/j.compositesa.2024.108040][📃 Link]]
+
+- *Vacuum-bag-only consolidation of C/PEKK fiber placed preforms with engineered gas evacuation channels*, Swamy et al., /Journal of Thermoplastic Composite Materials/. [[https://doi.org/10.1177/08927057231177571][📃 Link]]
+
+- *Modeling anisotropic friction in triaxial overbraiding simulations*, Vu et al., /Composites Part A/. [[https://doi.org/10.1016/j.compositesa.2023.107958][📃 Link]]
+
+- *An experimental study on the role of different void removal mechanisms in VBO processing of advanced thermoplastic composites*, Swamy et al., /Journal of Reinforced Plastics and Composites/. [[https://doi.org/10.1177/07316844231159134][📃 Link]]
+
+- *Direct observation of the fracture behavior of the polyether ketone ketone ( PEKK ) spherulites*, Marinosci et al., /Journal of Applied Polymer Science/ [[https://doi.org/10.1002/app.54764][📃 Link]]
+
+** 2023
+
+- *Modeling the effect of temperature and pressure on the peak and steady-state ply–ply friction response for UD C/PAEK tapes*, Pierik et al., /Composites Part A/. [[https://doi.org/10.1016/j.compositesa.2023.107671][📃 Link]]
+
+- *Stress analysis of bias extension specimens*, Akkerman et al., /Composites Part A/. [[https://doi.org/10.1016/j.compositesa.2023.107628][📃 Link]]
+
+- *Microbubble on fiber method to determine the contact angle between steel substrates and highly viscous molten PEKK and PA6*, Chen et al., /Journal of Applied Polymer Science/ [[https://10.1002/app.53945][📃 Link]]
+
+- *Designer Adhesives for Tough and Durable Interfaces in High-Performance Ti-Carbon PEKK Hybrid Joints*, Kafkopoulos et al., /Advanced Materials Interfaces/ [[https://10.1002/admi.202202460][📃 Link]]
+
+- *Modeling of yarn interactions for non-axisymmetric biaxial overbraiding simulations*, Vu et al., /Composites Part A/. [[https://doi.org/10.1016/j.compositesa.2022.107421][📃 Link]]
+
+** 2022
+
+- *Prediction of the peak and steady-state ply–ply friction response for UD C/PAEK tapes*, Pierik et al., /Composites Part A/. [[https://doi.org/10.1016/j.compositesa.2022.107185][📃 Link]]
+
+- *Characterization of the water–titanium interaction and its effect on the adhesion of titanium-C/PEKK joints*, Marinosci et al., /Composites Part A/. [[https://doi.org/10.1016/j.compositesa.2022.107107][📃 Link]]
+
+- *In-Plane Shear Characterization of Unidirectional Fiber Reinforced Thermoplastic Tape Using the Bias Extension Method*, Brands et al., /Frontiers in Materials/. [[https://doi.org/10.3389/fmats.2022.863952][📃 Link]]
+
+- *The role of process induced polymer morphology on the fracture toughness of titanium–PEKK interfaces*, Marinosci et al., /Engineering Fracture Mechanics/ [[https://doi.org/10.1016/j.engfracmech.2022.108475][📃 Link]]
+
+- *The relation between in-plane fiber waviness severity and first ply failure in thermoplastic composite laminates*, Sitohang et al., /Composite Sructures/ [[https://doi.org/10.1016/j.compstruct.2022.115374][📃 Link]]
+
+- *An experimental approach to reproduce in-plane fiber waviness in thermoplastic composites test coupons using a reverse forming method*, Sitohang et al., /Journal of Composite Materials/ [[https://doi.org/10.1177/00219983211026734][📃 Link]]
+
+For earlier work, please check [[https://openalex.org/works?page=1&filter=authorships.author.id:a5037301322&sort=publication_year:desc][OpenAlex]].

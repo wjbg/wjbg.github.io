@@ -1,0 +1,48 @@
+baseURL: "https://wjbg.github.io/"
+locale: "en-us"
+title: "Wouter Grouve"
+theme: ["PaperMod"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
+
+params:
+  profileMode:
+    enabled: true
+    title: "Wouter Grouve"
+    subtitle: "Associate Professor of Thermoplastic Composites"
+    imageUrl: "images/profile.jpg" # optional
+    imageTitle: "Photo of Wouter" # optional
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
+
+  socialIcons: # optional
+    - name: "Orcid"
+      url: "https://orcid.org/0000-0001-5513-9083"
+    - name: "Mastodon"
+      url: "https://social.edu.nl/@woutergrouve"
+    - name: "Github"
+      url: "https://github.com/wjbg"
+    - name: "email"
+      url: "mailto:wouter.grouve@utwente.nl"
+
+menu:
+  main:
+    - identifier: "about"
+      name: "About" # Or "Overview"
+      url: "/about"
+      weight: 10
+    - identifier: "publications"
+      name: "Publications"
+      url: "/publications"
+      weight: 20
+    - identifier: "contact"
+      name: "Contact"
+      url: "/contact"
+      weight: 30
