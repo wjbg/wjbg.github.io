@@ -28,7 +28,7 @@ Making progress in this domain requires a systematic approach on two fronts:
 -   **M.Sc. in Mechanical Engineering** | University of Twente, cum laude (2000 – 2006)
 
 
-## Teaching &amp; Other Interests {#teaching-and-other-interests}
+## Teaching {#teaching}
 
 My teaching philosophy centers on developing a deep intuition for engineering principles, where a **solid understanding of fundamental underlying physics** is key to solving complex problems. I prioritize active dialogue and interactive engagement with students through questioning rather than one-way lecturing, supported by hands-on assignments that encourage them to explore concepts themselves while practicing self-motivation and independent steering in their M.Sc. assignments and theses.
 
