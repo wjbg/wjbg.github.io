@@ -29,6 +29,8 @@ params:
       url: "https://social.edu.nl/@woutergrouve"
     - name: "Github"
       url: "https://github.com/wjbg"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/woutergrouve"
     - name: "email"
       url: "mailto:wouter.grouve@utwente.nl"
 
